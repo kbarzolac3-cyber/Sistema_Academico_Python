@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": 1,
+    "nombre": "Estructura",
+    "codigo": "0001",
+    "creditos": 4,
+    "cupos": 25
+  },
+  {
+    "id": 2,
+    "nombre": "Modelamiento",
+    "codigo": "0002",
+    "creditos": 3,
+    "cupos": 20
+  }
+]

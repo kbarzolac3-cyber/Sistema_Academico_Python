@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 1,
+    "nombre": "Kelly",
+    "apellido": "Barzola",
+    "email": "barzolak2@gmail.com",
+    "carnet": "07865",
+    "carrera": "Software"
+  },
+  {
+    "id": 2,
+    "nombre": "Euni",
+    "apellido": "Sanchez",
+    "email": "euni9@gmail.com",
+    "carnet": "05098",
+    "carrera": "Nutricion"
+  }
+]
