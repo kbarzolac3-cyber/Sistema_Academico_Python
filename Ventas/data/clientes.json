@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Euni",
+    "apellido": "Sanchez",
+    "email": "euni2@gmail.com",
+    "telefono": "0987654356",
+    "ciudad": "Milagro"
+  },
+  {
+    "id": 2,
+    "nombre": "Leonardo",
+    "apellido": "Bermeo",
+    "email": "leo2@gmail.com",
+    "telefono": "0988754236",
+    "ciudad": "Guayaquil"
+  },
+  {
+    "id": 3,
+    "nombre": "Leo",
+    "apellido": "Bermeo",
+    "email": "leob3@gmail.com",
+    "telefono": "0988754312",
+    "ciudad": "Milagro"
+  }
+]
